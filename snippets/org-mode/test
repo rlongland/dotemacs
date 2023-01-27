@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: test
+# key: test
+# --
+#+BEGIN_TEST $1
+$0
+#+END_TEST

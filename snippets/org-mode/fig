@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: org-figure
+# key: fig
+# --
+#+CAPTION: ${2:Sample Caption}
+#+NAME: fig:$3
+#+ATTR_LATEX: :width ${1:0.5}\textwidth
+$0

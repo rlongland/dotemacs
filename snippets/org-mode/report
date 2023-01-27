@@ -1,0 +1,19 @@
+# -*- mode: snippet -*-
+# name: report
+# key: report
+# --
+#+LATEX_CLASS: org-notes
+#+TITLE: ${1:Report}
+#+OPTIONS: toc:${2:nil}
+#+LATEX_HEADER: \input{defines.tex}
+
+* Introduction
+	$0
+* Methods
+
+* Results and Discussion
+
+* Conclusions
+
+	[[bibliographystyle:apsrev4-1]]
+	bibliography:${3:~/MyPapers/Masterbib.bib}

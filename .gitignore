@@ -1,0 +1,9 @@
+# start by ignoring everything
+/*
+# except
+!.gitignore
+!snippets
+!org-init.el
+!myinit.org
+!init.el
+!custom.el
