@@ -3,7 +3,7 @@
 #+STARTUP: showall
 #+PROPERTY: header-args:emacs-lisp    
 
-This is based on "Emacs for the rest of us".
+This is partially based on "Emacs for the rest of us", but mostly now on System Crafters' "emacs from scratch" series
 
 * Use Package
   #+BEGIN_SRC emacs-lisp
