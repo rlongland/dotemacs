@@ -1,0 +1,31 @@
+# -*- mode: snippet -*-
+# name: rate-eval
+# key: rate
+# --
+#+LATEX_CLASS: org-notes
+#+TITLE: ${1:Report}
+#+OPTIONS: toc:nil
+#+LATEX_HEADER: \input{~/.emacs.d/org-latex/defines.tex}
+
+* Initial Notes
+	$0
+* Reproduce RatesMC-V1 rate
+
+* Any errors in old rate?
+
+* Import RatesMC template
+
+* Update Masses
+
+* Correlations
+
+* Literature search for updates
+
+* TMatch notes
+
+* Final rates
+
+
+* References
+	[[bibliographystyle:apsrev4-1]]
+	bibliography:${3:~/MyPapers/Masterbib.bib}
