@@ -2563,7 +2563,6 @@ This is partially based on "Emacs for the rest of us", but mostly now on System 
 		(add-to-list 'load-path (concat user-emacs-directory "lisp/chatgpt-shell/"))
 		(require 'chatgpt-shell)
 		;; Key
-		(setq chatgpt-shell-openai-key "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")
 	#+END_SRC
 
 	#+RESULTS:
